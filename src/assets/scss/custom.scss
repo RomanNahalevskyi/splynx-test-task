@@ -1,0 +1,8 @@
+$theme-colors: (
+    "danger": #0004ff,
+    "success": #ff7000,
+    "dark": #40b883
+);
+
+@import "~bootstrap-vue/node_modules/bootstrap/scss/bootstrap.scss";
+@import '~bootstrap-vue/src/index.scss';
